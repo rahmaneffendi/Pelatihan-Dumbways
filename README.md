@@ -6,4 +6,4 @@ Mari Berjuang
 ## LAngkah 1
 
 -Gambar 1
-[Img 1](assets/blog%201.jpg) 
+![Img 1](assets/blog%201.jpg) 
