@@ -1,0 +1,2 @@
+# Pelatihan-Dumbways
+Mari Berjuang
